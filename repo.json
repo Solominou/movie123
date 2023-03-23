@@ -1,0 +1,8 @@
+{
+    "name": "Movie123 providers repository",
+    "description": "Cloudstream Movie123 Plugin Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/Solominou/movie123/builds/plugins.json"
+    ]
+  }
