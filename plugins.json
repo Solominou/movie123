@@ -233,25 +233,6 @@
         "name": "OulevodProvider"
     },
     {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pahe.sbs&size=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 14802,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Horis"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 2,
-        "internalName": "PaheProvider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/PaheProvider.cs3",
-        "name": "PaheProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=rainostreams.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/solominou/movie123",
