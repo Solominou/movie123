@@ -63,25 +63,6 @@
         "name": "BdysProvider"
     },
     {
-        "iconUrl": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.0.20/images/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 24777,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Horis"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 7,
-        "internalName": "BollywoodProvider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/BollywoodProvider.cs3",
-        "name": "BollywoodProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=yanetflix.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/solominou/movie123",
@@ -126,24 +107,6 @@
         "internalName": "DdysProvider",
         "url": "https://raw.githubusercontent.com/solominou/movie123/builds/DdysProvider.cs3",
         "name": "DdysProvider"
-    },
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://desicinemas.tv&size=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 21697,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Horis"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 4,
-        "internalName": "DesicinemasProvider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/DesicinemasProvider.cs3",
-        "name": "DesicinemasProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dramacool.city&sz=%size%",
@@ -222,26 +185,6 @@
         "internalName": "Movie123Provider",
         "url": "https://raw.githubusercontent.com/solominou/movie123/builds/Movie123Provider.cs3",
         "name": "Movie123Provider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.mxplayer.in&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 31571,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Horis"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "MxplayerProvider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/MxplayerProvider.cs3",
-        "name": "MxplayerProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.nivod.tv&sz=%size%",
