@@ -252,25 +252,6 @@
         "name": "PaheProvider"
     },
     {
-        "iconUrl": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.0.20/images/favicon.ico",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 21218,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Horis"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "PiousIndexProvider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/PiousIndexProvider.cs3",
-        "name": "PiousIndexProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=rainostreams.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/solominou/movie123",
