@@ -4,7 +4,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/solominou/movie123",
         "fileSize": 14695,
-        "status": 1,
+        "status": 0,
         "language": "en",
         "authors": [
             "Horis"
@@ -24,7 +24,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/solominou/movie123",
         "fileSize": 19048,
-        "status": 1,
+        "status": 0,
         "language": "en",
         "authors": [
             "Horis"
@@ -172,7 +172,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/solominou/movie123",
         "fileSize": 18170,
-        "status": 1,
+        "status": 0,
         "language": "en",
         "authors": [
             "Horis"
@@ -237,7 +237,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/solominou/movie123",
         "fileSize": 14931,
-        "status": 1,
+        "status": 0,
         "language": "en",
         "authors": [
             "Horis"
@@ -274,7 +274,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/solominou/movie123",
         "fileSize": 11819,
-        "status": 1,
+        "status": 0,
         "language": "en",
         "authors": [
             "Horis"
