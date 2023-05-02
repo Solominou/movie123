@@ -54,23 +54,5 @@
         "internalName": "SockshareProvider",
         "url": "https://raw.githubusercontent.com/solominou/movie123/builds/SockshareProvider.cs3",
         "name": "SockshareProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=1stream.eu&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 11819,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Horis"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 1,
-        "internalName": "Stream1Provider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/Stream1Provider.cs3",
-        "name": "Stream1Provider"
     }
 ]
