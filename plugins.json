@@ -1,45 +1,5 @@
 [
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://123animehub.cc&size=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 14695,
-        "status": 0,
-        "language": "en",
-        "authors": [
-            "Horis"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 3,
-        "internalName": "AnimehubProvider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/AnimehubProvider.cs3",
-        "name": "AnimehubProvider"
-    },
-    {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animexinax.com&size=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 19048,
-        "status": 0,
-        "language": "en",
-        "authors": [
-            "Horis"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 2,
-        "internalName": "AnimexinaxProvider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/AnimexinaxProvider.cs3",
-        "name": "AnimexinaxProvider"
-    },
-    {
+     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.bdys01.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/solominou/movie123",
