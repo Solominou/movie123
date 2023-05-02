@@ -1,74 +1,5 @@
 [
      {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.bdys01.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 23534,
-        "status": 1,
-        "language": "zh",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie",
-            "AnimeMovie",
-            "TvSeries",
-            "Anime",
-            "AsianDrama",
-            "Others"
-        ],
-        "version": 1,
-        "internalName": "BdysProvider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/BdysProvider.cs3",
-        "name": "BdysProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=yanetflix.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 23172,
-        "status": 1,
-        "language": "zh",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie",
-            "AnimeMovie",
-            "TvSeries",
-            "Anime",
-            "AsianDrama",
-            "Others"
-        ],
-        "version": 1,
-        "internalName": "DamixingqiuProvider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/DamixingqiuProvider.cs3",
-        "name": "DamixingqiuProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=ddys.tv&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 17131,
-        "status": 1,
-        "language": "zh",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie",
-            "AnimeMovie",
-            "TvSeries",
-            "Anime",
-            "AsianDrama",
-            "Others"
-        ],
-        "version": 1,
-        "internalName": "DdysProvider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/DdysProvider.cs3",
-        "name": "DdysProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=dramacool.city&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/solominou/movie123",
@@ -85,47 +16,6 @@
         "internalName": "DramacoolProvider",
         "url": "https://raw.githubusercontent.com/solominou/movie123/builds/DramacoolProvider.cs3",
         "name": "DramacoolProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kshow123online.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 18305,
-        "status": 0,
-        "language": "en",
-        "authors": [
-            "Horis"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "version": 2,
-        "internalName": "Kshow123Provider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/Kshow123Provider.cs3",
-        "name": "Kshow123Provider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.libvio.me&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 18092,
-        "status": 1,
-        "language": "zh",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie",
-            "AnimeMovie",
-            "TvSeries",
-            "Anime",
-            "AsianDrama",
-            "Others"
-        ],
-        "version": 8,
-        "internalName": "LibvioProvider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/LibvioProvider.cs3",
-        "name": "LibvioProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=ww1.new-movies123.co&sz=%size%",
@@ -145,70 +35,6 @@
         "internalName": "Movie123Provider",
         "url": "https://raw.githubusercontent.com/solominou/movie123/builds/Movie123Provider.cs3",
         "name": "Movie123Provider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.nivod.tv&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 28214,
-        "status": 1,
-        "language": "zh",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie",
-            "AnimeMovie",
-            "TvSeries",
-            "Anime",
-            "AsianDrama",
-            "Others"
-        ],
-        "version": 2,
-        "internalName": "NivodProvider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/NivodProvider.cs3",
-        "name": "NivodProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.oulevod.tv&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 12035,
-        "status": 1,
-        "language": "zh",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie",
-            "AnimeMovie",
-            "TvSeries",
-            "Anime",
-            "AsianDrama",
-            "Others"
-        ],
-        "version": 4,
-        "internalName": "OulevodProvider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/OulevodProvider.cs3",
-        "name": "OulevodProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=rainostreams.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 14931,
-        "status": 0,
-        "language": "en",
-        "authors": [
-            "Horis"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 2,
-        "internalName": "RainoStreamsProvider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/RainoStreamsProvider.cs3",
-        "name": "RainoStreamsProvider"
     },
     {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sockshare.ac&size=%size%",
@@ -246,52 +72,5 @@
         "internalName": "Stream1Provider",
         "url": "https://raw.githubusercontent.com/solominou/movie123/builds/Stream1Provider.cs3",
         "name": "Stream1Provider"
-    },
-    {
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 45129,
-        "status": 1,
-        "language": "zh",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie",
-            "AnimeMovie",
-            "TvSeries",
-            "Cartoon",
-            "Anime",
-            "AsianDrama",
-            "Documentary",
-            "Others"
-        ],
-        "version": 10,
-        "internalName": "SuperVod",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/SuperVod.cs3",
-        "name": "SuperVod"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=yanetflix.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/solominou/movie123",
-        "fileSize": 19097,
-        "status": 0,
-        "language": "zh",
-        "authors": [
-            
-        ],
-        "tvTypes": [
-            "Movie",
-            "AnimeMovie",
-            "TvSeries",
-            "Anime",
-            "AsianDrama",
-            "Others"
-        ],
-        "version": 3,
-        "internalName": "YaNaiFeiProvider",
-        "url": "https://raw.githubusercontent.com/solominou/movie123/builds/YaNaiFeiProvider.cs3",
-        "name": "YaNaiFeiProvider"
     }
 ]
