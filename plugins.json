@@ -60,7 +60,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/solominou/movie123",
         "fileSize": 11819,
-        "status": 0,
+        "status": 1,
         "language": "en",
         "authors": [
             "Horis"
